@@ -1,3 +1,5 @@
+#This is the initial data preprocessing done on a sample data sets to show about dummy variables, encoding, filling missing data
+#splitting, feature scaling. Usually, a machine learning algoritm takes care of some of these preprocessing steps within the lib
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
